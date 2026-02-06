@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create design_brief.md for Fleet & Maintenance Management Dashboard",
+    "status": "completed",
+    "activeForm": "Creating design_brief.md"
+  },
+  {
+    "content": "Implement Dashboard.tsx following design_brief.md exactly",
+    "status": "completed",
+    "activeForm": "Implementing Dashboard.tsx"
+  },
+  {
+    "content": "Build and deploy using mcp__deploy_tools__deploy_to_github",
+    "status": "in_progress",
+    "activeForm": "Building and deploying"
+  }
+]
